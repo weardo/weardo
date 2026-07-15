@@ -13,7 +13,7 @@
 <p align="center">
   <a href="https://soupup.ai">soupup.ai</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/abhishek-janjalkar">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:janjalkarabhishek3@gmail.com">Email</a>
+  <a href="mailto:abhishek@soupup.ai">Email</a>
 </p>
 
 ---
