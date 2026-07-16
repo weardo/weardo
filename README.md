@@ -30,7 +30,7 @@ The **Soup Up** family of tools (idea, design, code, and deploy, all solo):
 | [**SoupDraw**](https://draw.soupup.ai) | Draw on your live camera with hand gestures, 100% on-device, for any video call (Firefox + Chrome) |
 | [**soupdraw** (npm)](https://www.npmjs.com/package/soupdraw) | The gesture-drawing engine as a framework-agnostic browser SDK ([source](https://github.com/soupupai/soupdraw-sdk)) |
 | [**NaviLearn**](https://navi.soupup.ai) | A multi-stakeholder, Indic-first edtech platform |
-| [**cptsd.in**](https://cptsd.in) | My self-hosted dev infrastructure and homelab |
+| [**cptsd.in**](https://cptsd.in) | Complex-PTSD awareness platform |
 
 ---
 
